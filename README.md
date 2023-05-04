@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avik!</h1>
-<h3 align="center">I am a Tech and Coding enthusiast, a web developer and a programmer from Kolkata,India. <br> I am currently pursuing my Bachelor of Engineering degree in Information Technology from Haldia Institute of Technology, Haldia.</h3>
+<h3 align="center">I am a Tech and Coding enthusiast, a web developer and a programmer from Kolkata,India. <br> I am currently pursuing my B.Tech Information Technology from Haldia Institute of Technology, Haldia.</h3>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Tools:
 <p align="left"> 
