@@ -2,7 +2,9 @@
 <h3 align="center">I am a Tech and Coding enthusiast, a web developer and a programmer from Kolkata,India. <br> I am currently pursuing my B.Tech in Information Technology from Haldia Institute of Technology, Haldia.</h3>
 
 
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/anonymous9679/anonymous9679/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif">
+</p>
 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Tools:
