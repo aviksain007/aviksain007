@@ -18,6 +18,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><code><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="41"/></code></a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="tailwindcss" width="40" height="40"/></code></a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><code><img width="40" height="40" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/></code></a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><code><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactJs"/></code></a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><code><img src="https://img.icons8.com/color/8x/000000/nodejs.png" alt="nodejs" width="40" height="40"/></code></a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><code><img src="https://user-images.githubusercontent.com/124508241/236266936-377a32b0-697c-4bea-ac12-579642f0a617.png" alt="express" height="40" width="40" /></code></a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><code><img src="https://img.icons8.com/color/8x/000000/mongodb.png" alt="mongodb" width="40" height="40"/></code></a>
