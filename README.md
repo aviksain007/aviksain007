@@ -37,16 +37,17 @@
 </p>
 
 
-
-
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Lets Connect!
 <p align="left"><code><a href="https://www.linkedin.com/in/avik-sain-387452226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik sain" height="30" width="40" /></code></a>
  </p>
 <br>
 
 
+[![](https://visitcount.itsvg.in/api?id=aviksain007&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviksain007&show_icons=true&locale=en&layout=compact" alt="aviksain007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviksain007&show_icons=true&locale=en" alt="aviksain007" /></p>
+
 
